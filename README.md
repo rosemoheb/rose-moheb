@@ -7,7 +7,7 @@ I create user-centered digital experiences that are both functional and visually
 - Tabibi app – Medical app
 - Gym App – Fitness UI/UX design
 
-## 🛠 Tools
+##  Tools
 Figma | Adobe XD | Photoshop | Illustrator
 
 ##  Contact Me
